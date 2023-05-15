@@ -49,3 +49,88 @@ Generates questions and answers from the passage provided by the user. Powered b
 
 <b> 12. [Box AI](https://www.box.com/ai?utm_source=Google&utm_medium=SEM&utm_campaign=dm-google-sem-na-eng-brand&utm_keyword=box%20ai&id=7010e000001PaCyAAK&utm_content=454965427105|kwd-547769675472|c&s_kwcid=AL!16812!3!454965427105!p!!g!!box%20ai&gclid=Cj0KCQjw0tKiBhC6ARIsAAOXutn4dlRf_LhNi4KfeYp3ag2vtX1bofZLz8haheZjXk5bmrvcPmR2erkaAhX_EALw_wcB) <br>
 Unlock the value of your content. Box AI will make it easier than ever to uncover and share insights, find timely answers to critical questions, and effortlessly create content based on an organization’s data in Box. With the power of AI, you will be able to unlock the value of your content and make every person in your company smarter and more productive.
+</b>
+  
+## Chatbots  
+| Tool | Description |
+| --- | --- |
+| Anthropic Claude | List all new or modified files |
+| Bard | Show file differences that haven't been staged |
+| Bing Chat | Show file differences that haven't been staged |
+| ChatGPT | Show file differences that haven't been staged |
+
+## Content Generator  
+| Tool | Description |
+| --- | --- |
+| Anthropic Claude | List all new or modified files |
+| Bard | Show file differences that haven't been staged |
+| Bing Chat | Show file differences that haven't been staged |
+| ChatGPT | Show file differences that haven't been staged |
+
+
+## Spreadsheets 
+| Tool | Description |
+| --- | --- |
+| Anthropic Claude | List all new or modified files |
+| Bard | Show file differences that haven't been staged |
+| Bing Chat | Show file differences that haven't been staged |
+| ChatGPT | Show file differences that haven't been staged |
+
+
+## Meeting recording  
+| Tool | Description |
+| --- | --- |
+| Anthropic Claude | List all new or modified files |
+| Bard | Show file differences that haven't been staged |
+| Bing Chat | Show file differences that haven't been staged |
+| ChatGPT | Show file differences that haven't been staged |
+
+## Personal Productivity  
+| Tool | Description |
+| --- | --- |
+| Anthropic Claude | List all new or modified files |
+| Bard | Show file differences that haven't been staged |
+| Bing Chat | Show file differences that haven't been staged |
+| ChatGPT | Show file differences that haven't been staged |
+
+## Audio editing
+| Tool | Description |
+| --- | --- |
+| Anthropic Claude | List all new or modified files |
+| Bard | Show file differences that haven't been staged |
+| Bing Chat | Show file differences that haven't been staged |
+| ChatGPT | Show file differences that haven't been staged |
+
+
+## Image generation  
+| Tool | Description |
+| --- | --- |
+| Anthropic Claude | List all new or modified files |
+| Bard | Show file differences that haven't been staged |
+| Bing Chat | Show file differences that haven't been staged |
+| ChatGPT | Show file differences that haven't been staged |
+
+## Slide decks  
+| Tool | Description |
+| --- | --- |
+| Anthropic Claude | List all new or modified files |
+| Bard | Show file differences that haven't been staged |
+| Bing Chat | Show file differences that haven't been staged |
+| ChatGPT | Show file differences that haven't been staged |
+
+
+## PDF
+| Tool | Description |
+| --- | --- |
+| Anthropic Claude | List all new or modified files |
+| Bard | Show file differences that haven't been staged |
+| Bing Chat | Show file differences that haven't been staged |
+| ChatGPT | Show file differences that haven't been staged |
+
+## Synthetic voices
+| Tool | Description |
+| --- | --- |
+| Anthropic Claude | List all new or modified files |
+| Bard | Show file differences that haven't been staged |
+| Bing Chat | Show file differences that haven't been staged |
+| ChatGPT | Show file differences that haven't been staged |
